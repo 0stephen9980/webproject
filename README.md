@@ -1,9 +1,6 @@
-# webproject
-online college portal
 <!DOCTYPE html>
 <html>
 <head>
-    <title>college portal</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
