@@ -3,50 +3,8 @@ online college portal
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {
-    margin: 0;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 15%;
-    background-color: #111111;
-    position: fixed;
-    height: 100%;
-    overflow: auto;
-}
-
-li a {
-    display: block;
-    color: #ffffff;
-    padding: 30px 16px;
-    text-decoration: none;
-    font-size: 20px;
-}
-li a:hover{
-    background-color: #4CAF50;
-}
-div{
-  background-color: #FFB233;
-}
-#a{
-  position: relative;
-  left: 15%;
-}
-#b{
-  position: relative;
-  left: 22.5%;
-}
-#c{
-  position: relative;
-  left: 30%;
-  height: 6%;
-  width: 6%;
-}
-</style>
+    <title>college portal</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <nav>
